@@ -2,11 +2,11 @@ import { Card, CardBody, Heading, Image, Text } from "@chakra-ui/react";
 import { Game } from "../hooks/useGames";
 import PlatformIconList from "./PlatformIconList";
 
-interface GameCardProps {
+interface Props {
   game: Game;
 }
 
-const GameCard = ({ game }: GameCardProps) => {
+const GameCard = ({ game }: Props) => {
   return (
     <Card borderRadius={10} overflow="hidden">
       <Image src={game.background_image} />

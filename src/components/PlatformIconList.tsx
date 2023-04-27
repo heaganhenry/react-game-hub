@@ -13,11 +13,11 @@ import { BsGlobe } from "react-icons/bs";
 import { IconType } from "react-icons";
 import { Platform } from "../hooks/useGames";
 
-interface PlatformIconListProps {
+interface Props {
   platforms: Platform[];
 }
 
-const PlatformIconList = ({ platforms }: PlatformIconListProps) => {
+const PlatformIconList = ({ platforms }: Props) => {
   const iconMap: { [key: string]: IconType } = {
     pc: FaWindows,
     linux: FaLinux,
