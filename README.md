@@ -5,8 +5,14 @@ This is a game hub application that utilizes the RAWG API to display a grid of d
 You can view the live version of this project [here](https://react-game-hub-gamma.vercel.app/).
 
 ## Table of Contents
+- [To-Do](#to-do)
 - [Installation](#installation)
 - [Usage](#usage)
+
+
+## To-Do
+The following tasks are planned for future development:
+- Add pagination with react query
 
 
 ## Installation
