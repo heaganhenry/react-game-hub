@@ -1,4 +1,4 @@
-# react-game-hub 
+# Game Hub
 
 This is a game hub application that utilizes the RAWG API to display a grid of different game titles. It provides sorting and filtering functionality to help users find their desired games easily. The user interface is built using React, TypeScript, and ChakraUI.
 
