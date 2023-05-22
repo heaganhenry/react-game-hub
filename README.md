@@ -1,7 +1,4 @@
 # react-game-hub 
-Game hub that utilizes RAWG API to display different game titles in a grid with sorting and filtering functionality. UI built with React, TypeScript and ChakraUI. View it live [here](https://react-game-hub-gamma.vercel.app/) 
-
-# react-game-hub 
 
 This is a game hub application that utilizes the RAWG API to display a grid of different game titles. It provides sorting and filtering functionality to help users find their desired games easily. The user interface is built using React, TypeScript, and ChakraUI.
 
