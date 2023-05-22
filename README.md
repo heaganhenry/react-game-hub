@@ -37,7 +37,7 @@ To use the game hub application, follow these steps:
 npm run dev
 ```
 
-2. Open your browser and visit `http://localhost:3000` to access the application.
+2. Open your browser and visit the url provided in the console to access the application.
 
 3. Browse through the game titles displayed in the grid. You can use the sorting and filtering options to refine your search.
 
