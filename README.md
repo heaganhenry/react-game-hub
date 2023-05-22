@@ -20,7 +20,7 @@ To install and set up the project locally, follow these steps:
 
 1. Clone the repository using the following command:
 ```
-git clone https://github.com/heaganhenry/game-hub.git
+git clone https://github.com/heaganhenry/react-game-hub.git
 ```
 
 2. Navigate to the project directory:
